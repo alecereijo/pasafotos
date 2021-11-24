@@ -1,0 +1,1 @@
+en este ejercicio tenemos un banner iniciar y el reto del contenido hidden al pulsar en el botton nos lleva a un carrusel de imagenes y texto todo marcado por las acciones que indicamos en js en el carrusel tambien tenemos un boton que al pulsar en el nos lleva al principio de la secuencia de imagenes. 
